@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Fashflash16
+/src/backend/database.py      @Fashflash16
+/src/backend/routers/auth.py  @Fashflash16
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Fashflash16
